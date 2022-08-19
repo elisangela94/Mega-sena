@@ -1,0 +1,2 @@
+# Mega-sena
+Primeiro repositório
